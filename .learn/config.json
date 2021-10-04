@@ -1,7 +1,7 @@
 {
   "config": {
     "port": 3000,
-    "address": "https://apricot-kingfisher-id5hp5xf.ws-us15.gitpod.io",
+    "address": "https://emerald-sturgeon-4g92nhyr.ws-us18.gitpod.io",
     "editor": {
       "mode": "preview",
       "agent": "vscode",
@@ -11,7 +11,7 @@
     "configPath": "bc.json",
     "outputPath": ".learn/dist",
     "publicPath": "/preview",
-    "publicUrl": "https://3000-apricot-kingfisher-id5hp5xf.ws-us15.gitpod.io",
+    "publicUrl": "https://3000-emerald-sturgeon-4g92nhyr.ws-us18.gitpod.io",
     "grading": "incremental",
     "exercisesPath": ".learn/exercises",
     "webpackTemplate": null,
@@ -31,7 +31,7 @@
     },
     "translations": []
   },
-  "currentExercise": "14-good-bye",
+  "currentExercise": "01.1-instructions",
   "title": "Build a Digital Postcard with HTML/CSS",
   "slug": "exercise-postcard",
   "status": "published",
@@ -80,7 +80,7 @@
       "points": 10
     }
   ],
-  "session": 2117001986471485200,
+  "session": 3945013943731521000,
   "exercises": [
     {
       "position": 0,
@@ -90,20 +90,65 @@
         "es": "README.es.md",
         "us": "README.md"
       },
-      "language": null,
-      "entry": null,
+      "language": "html",
+      "entry": "index.html",
       "title": "01-welcome",
       "graded": false,
       "files": [
         {
-          "path": ".learn/exercises/01-welcome/README.es.md",
+          "path": "./.git",
+          "name": ".git",
+          "hidden": true
+        },
+        {
+          "path": "./.github",
+          "name": ".github",
+          "hidden": true
+        },
+        {
+          "path": "./.gitignore",
+          "name": ".gitignore",
+          "hidden": true
+        },
+        {
+          "path": "./.gitpod.Dockerfile",
+          "name": ".gitpod.Dockerfile",
+          "hidden": true
+        },
+        {
+          "path": "./.gitpod.yml",
+          "name": ".gitpod.yml",
+          "hidden": true
+        },
+        {
+          "path": "./.learn",
+          "name": ".learn",
+          "hidden": true
+        },
+        {
+          "path": "./README.es.md",
           "name": "README.es.md",
           "hidden": true
         },
         {
-          "path": ".learn/exercises/01-welcome/README.md",
+          "path": "./README.md",
           "name": "README.md",
           "hidden": true
+        },
+        {
+          "path": "./bc.json",
+          "name": "bc.json",
+          "hidden": true
+        },
+        {
+          "path": "./index.html",
+          "name": "index.html",
+          "hidden": false
+        },
+        {
+          "path": "./styles.css",
+          "name": "styles.css",
+          "hidden": false
         }
       ],
       "done": false
